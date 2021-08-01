@@ -5,7 +5,7 @@ Total number of riders, fares, and drivers with average values calculated per ci
 The result will help Pyber management to decide improve access to underserved neighborhoods.
 city data and ride data csv files got analyzed using pandas library, jupyter note book and matplotlib.
 
-#Results
+# Results
 
 There are 1625 total rides for urban compared to suburban(625) and rural(125). The  number of drivers who operate 
 on urban areas (59602) are an enormous amount compared to suburban and rural which are less than 10,000 combined. 
